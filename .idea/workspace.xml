@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a277144b-9d4b-4024-9c0b-5842a3b86203" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSSV7fhq9gKwWaMKEbnlrRaUCF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedLists(Cities)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PlaylistChallange(LinkedList)" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a277144b-9d4b-4024-9c0b-5842a3b86203" name="Default Changelist" comment="" />
+      <created>1603796024538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603796024538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1603796477854">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603796477854" />
+    <state x="524" y="135" key="#xdebugger.evaluate" timestamp="1603806642623">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="135" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1603806642623" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1608647044659">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603995062809" />
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608647044659" />
+    <state width="1493" height="508" key="GridCell.Tab.0.bottom" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.0.center" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.0.left" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.0.right" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.1.bottom" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.1.center" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.1.left" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state width="1493" height="508" key="GridCell.Tab.1.right" timestamp="1603808696300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="508" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1603808696300" />
+    <state x="209" y="53" key="new project wizard" timestamp="1604164616602">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604164616602" />
+    <state x="469" y="180" key="refactoring.ChangeSignatureDialog" timestamp="1603812305593">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="469" y="180" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1603812305593" />
+  </component>
+</project>
